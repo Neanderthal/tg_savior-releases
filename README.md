@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="TG Savior" width="160"></p>
+
 # TG Savior — Downloads
 
 В этом репозитории публикуются установщики **TG Savior** —
