@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" alt="TG Savior" width="160"></p>
+<p align="center"><img src="logo.png" alt="TG Savior" width="520"></p>
 
 # TG Savior — Downloads
 
